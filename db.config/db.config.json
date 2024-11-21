@@ -1,0 +1,5 @@
+{
+    "HOST" : "localhost",
+    "PORT" :"27017",
+    "DB" : "ice-cream-parlour"
+  }
